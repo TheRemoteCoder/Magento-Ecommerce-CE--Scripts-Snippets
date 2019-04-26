@@ -1,4 +1,4 @@
-# Magento E-Commerce CE - Custom features
+# Magento E-Commerce CE - Scripts & Snippets
 
 - [About](#about)
 - [Features](#features)
