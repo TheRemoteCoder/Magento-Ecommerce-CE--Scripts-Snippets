@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # Magento E-Commerce CE - Scripts & Snippets
 
 - [About](#about)
