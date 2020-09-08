@@ -8,10 +8,7 @@
 
 ---
 
-[![GitHub release](https://img.shields.io/github/release/TheRemoteCoder/Magento-Ecommerce-CE--Scripts-Snippets.svg)](https://github.com/TheRemoteCoder/Magento-Ecommerce-CE--Scripts-Snippets/releases)
-
 <br>
-
 
 ## About
 
