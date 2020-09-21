@@ -1,6 +1,6 @@
 ![Preview](preview.png)
 
-# Magento E-Commerce CE - Scripts & Snippets
+# Magento E-Commerce CE
 
 - [About](#about)
 - [Features](#features)
