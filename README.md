@@ -4,7 +4,6 @@
 
 - [About](#about)
 - [Features](#features)
-- [License »](/LICENSE.md)
 
 <br>
 
@@ -31,13 +30,13 @@ They aren't considered production ready and should be carefully examined and con
 Note: Set store ID and database connection in the script.
 
 - Export opted-in newsletter subscribers per store.
-- Render output as plain text (exemplaric).
+- Render output as plain text (exemplary).
 
 
-### Export Stock - Excel
+### Export Stock – Excel
 
 Read inline code documentation about the workflow.
 
 - Get profile export results from Admin panel in Frontend.
-- Render output as plain text (exemplaric).
+- Render output as plain text (exemplary).
 
