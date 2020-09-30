@@ -79,7 +79,7 @@ class Database
   public function __construct () {}
 
   /**
-   * Set database access. 
+   * Set database access.
    * Could be done in constructor but keeps this class independent to use.
    *
    * @param   string  $location  Server location.
@@ -94,7 +94,7 @@ class Database
     $this->_pass     = $pass;
     $this->_db       = $db;
     $this->_user     = $user ? $user : $db;
-    
+
     return $this;
   }
 
@@ -128,7 +128,7 @@ class Database
     // Close connection
     if ($this->Connection !== null) {
       mysql_close($this->Connection);
-      
+
       $this->_connectionOk = false;
       $this->Connection    = null;
     }

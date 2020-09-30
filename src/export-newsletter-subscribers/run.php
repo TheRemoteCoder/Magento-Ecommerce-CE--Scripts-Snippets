@@ -1,4 +1,4 @@
-<?php 
+<?php
 /**
  * Export opted-in newsletter subscribers from DB.
  * This example simply renders a plain text output.
@@ -70,4 +70,3 @@ echo $text;
 // header('Content-type:application/octet-stream');
 // header('Content-Disposition:attachment; filename="newsletter_subscribers.csv"');
 // ...
-
